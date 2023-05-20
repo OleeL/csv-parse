@@ -7,7 +7,7 @@ This Python script changes the quote character in a CSV file. The script removes
 
 
 ```sh
-python3 <main.py> <input_file.csv> <output_file.csv>
+python3 main.py <input_file.csv> <output_file.csv>
 ```
 
 If the script is run without specifying input_file and output_file arguments, it will default to 'input.csv' for input and 'output.csv' for output.
